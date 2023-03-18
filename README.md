@@ -1,2 +1,2 @@
 # ai-model-convert-tool
-This repository is for differenct format AI model convert
+This repository is for different format AI model convert
